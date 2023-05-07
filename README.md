@@ -49,7 +49,18 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">TMI</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/CityU-AIM-Group/PRR-Imbalance">code</a></td>
 	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">2</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2203.10144.pdf">Closing the Generalization Gap of Cross-silo Federated Medical Image Segmentation</a></td>
+        <td class=xl6519452 align="center">CVPR</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/NVIDIA/NVFlare/tree/dev/research/fed-sm">code</a></td>
+	</tr>
+
 </table>
+
+
+
+
 
 ### 2021
 <table border=0 cellpadding=0 cellspacing=0 >
@@ -69,6 +80,13 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">MICCAI</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/CityU-AIM-Group/PRR-FL">code</a></td>
 	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">2</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2103.06030.pdf">FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space</a></td>
+        <td class=xl6519452 align="center">CVPR</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/liuquande/FedDG-ELCFS">code</a></td>
+	</tr>	
+	
 </table>
 
 
