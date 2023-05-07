@@ -135,7 +135,12 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">ICLR</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/med-air/FedBN">code</a></td>
 	</tr>		
-	
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">4</td>
+        <td class=xl6519452 align="center"><a href="https://www.sciencedirect.com/science/article/pii/S1361841521000384">Federated semi-supervised learning for COVID region segmentation in chest CT using multi-national data from China, Italy, Japan</a></td>
+        <td class=xl6519452 align="center">MIA</td>
+	<td class=xl6519452 align="center"><a href="">code</a></td>
+	</tr>		
 	
 	
 	
