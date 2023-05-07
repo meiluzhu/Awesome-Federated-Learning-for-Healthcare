@@ -5,6 +5,26 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
 <img width="700" src="imgs/img.png" alt="FL"/>
 </div>
 
+### Survey
+<table border=0 cellpadding=0 cellspacing=0 >
+  <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="25%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">Number</td>
+		<td class=xl6519452 width="65%" align="center">Title</td>
+		<td class=xl6519452 width="25%" align="center">Publication</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">1</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9794622">Federated Learning for Privacy Preservation in Smart Healthcare Systems: A Comprehensive Survey</a></td>
+        <td class=xl6519452 align="center">JBHI</td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
+	</tr>
+</table>
+
 ### 2023
 <table border=0 cellpadding=0 cellspacing=0 >
   <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
@@ -58,6 +78,12 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/10004993">Label-Efficient Self-Supervised Federated Learning for Tackling Data Heterogeneity in Medical Imaging</a></td>
         <td class=xl6519452 align="center">TMI</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/rui-yan/SSL-FL">Code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">8</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2304.14976.pdf">Quality-Adaptive Split-Federated Learning for Segmenting Medical Images with Inaccurate Annotations</a></td>
+        <td class=xl6519452 align="center">ISBI</td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
 	</tr>
 </table>
 
@@ -201,6 +227,30 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9806163">SplitAVG: A Heterogeneity-Aware Federated Deep Learning Method for Medical Imaging</a></td>
         <td class=xl6519452 align="center">JBHI</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/zm17943/SplitAVG">Code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">22</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9806163">Robust Split Federated Learning for U-shaped Medical Image Networks</a></td>
+        <td class=xl6519452 align="center"></td>
+	<td class=xl6519452 align="center"><a href="https://github.com/Zi-YuanYang/RoS-FL">Code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">23</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2206.13803.pdf">Federated Learning with Imbalanced and Agglomerated Data Distribution for Medical Image Classification</a></td>
+        <td class=xl6519452 align="center"></td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">24</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2110.08394.pdf">Adapt to Adaptation: Learning Personalization for Cross-Silo Federated Learning</a></td>
+        <td class=xl6519452 align="center">IJCAI</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/ljaiverson/pFL-APPLE">Code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">25</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9767711">Federated Learning for Privacy Preservation of Healthcare Data From Smartphone-Based Side-Channel Attacks</a></td>
+        <td class=xl6519452 align="center">JBHI</td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
 	</tr>
 </table>
 
@@ -349,10 +399,17 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
 	<td class=xl6519452 align="center"><a href="https://github.com/tommy-qichang/AsynDGAN">Code</a></td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
-        <td class=xl6519452 align="center">4</td>
+        <td class=xl6519452 align="center">5</td>
         <td class=xl6519452 align="center"><a href="https://www.sciencedirect.com/science/article/pii/S1361841520301298">Multi-site fMRI analysis using privacy-preserving federated learning and domain adaptation: ABIDE results</a></td>
         <td class=xl6519452 align="center">MIA</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/xxlya/Fed_ABIDE">Code</a></td>
 	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">6</td>
+        <td class=xl6519452 align="center"><a href="https://link.springer.com/chapter/10.1007/978-3-030-60548-3_18">Federated Learning for Breast Density Classification: A Real-World Implementation</a></td>
+        <td class=xl6519452 align="center">MICCAI-W</td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
+	</tr>
 </table>
+
 
