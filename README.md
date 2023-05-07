@@ -88,7 +88,15 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">AAAI</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/med-air/HarmoFL">code</a></td>
 	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">6</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2210.04620.pdf">FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings</a></td>
+        <td class=xl6519452 align="center">NeurIPS</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/owkin/flamby">code</a></td>
+	</tr>
 </table>
+
+
 
 
 ### 2021
