@@ -47,6 +47,12 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">ICCV</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/chunmeifeng/FedPR">Code</a></td>
 	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">6</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2303.12317.pdf">Re-thinking Federated Active Learning based on Inter-class Diversity</a></td>
+        <td class=xl6519452 align="center">CVPR</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/raymin0223/LoGo">Code</a></td>
+	</tr>
 </table>
 
 
