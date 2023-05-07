@@ -65,7 +65,7 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
 	</tr>
 	<tr height=19 style='height:14.15pt'>
         <td class=xl6519452 align="center">1</td>
-        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9832948">Personalized Retrogress-Resilient Framework for Real-World Medical Federated Learning</a></td>
+        <td class=xl6519452 align="center"><a href="https://link.springer.com/chapter/10.1007/978-3-030-87199-4_33">Personalized Retrogress-Resilient Framework for Real-World Medical Federated Learning</a></td>
         <td class=xl6519452 align="center">MICCAI</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/CityU-AIM-Group/PRR-FL">code</a></td>
 	</tr>
