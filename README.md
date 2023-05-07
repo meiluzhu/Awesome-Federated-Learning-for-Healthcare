@@ -147,11 +147,21 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">MIA</td>
 	<td class=xl6519452 align="center"><a href=""></a></td>
 	</tr>		
-	
-	
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">6</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2103.03703.pdf">Fedperl: semi-supervised peer learning for skin lesion classification</a></td>
+        <td class=xl6519452 align="center">MICCAI</td>
+	<td class=xl6519452 align="center"><a href="https://www.melba-journal.org/papers/2022:011.html">Project</a></td>
+	</tr>		
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">7</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2204.07352v2.pdf">A Differentially Private Probabilistic Framework for Modeling the Variability Across Federated Datasets of Heterogeneous Multi-View Observations
+</a></td>
+        <td class=xl6519452 align="center">IPMI</td>
+	<td class=xl6519452 align="center"><a href="https://www.melba-journal.org/papers/2022:012.html">Project</a> <br> <a href="https://gitlab.inria.fr/epione/federated-multi-views-ppca">Code</a></td>
+	</tr>	
 	
 </table>
-
 
 
 
