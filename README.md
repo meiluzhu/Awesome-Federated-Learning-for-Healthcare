@@ -106,6 +106,16 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">KDD</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/jianyizhang123/FLOP">code</a></td>
 	</tr>		
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">4</td>
+        <td class=xl6519452 align="center"><a href="https://openreview.net/pdf?id=6YEQUn0QICG">FedBN: Federated Learning on Non-IID Features via Local Batch Normalization</a></td>
+        <td class=xl6519452 align="center">ICLR</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/med-air/FedBN">code</a></td>
+	</tr>		
+	
+	
+	
+	
 </table>
 
 
