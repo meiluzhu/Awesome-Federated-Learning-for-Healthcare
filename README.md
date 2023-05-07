@@ -55,11 +55,25 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">CVPR</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/NVIDIA/NVFlare/tree/dev/research/fed-sm">code</a></td>
 	</tr>
-
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">3</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2203.06338.pdf">Auto-FedRL: Federated Hyperparameter Optimization for Multi-institutional Medical Image Segmentation</a></td>
+        <td class=xl6519452 align="center">ECCV</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/guopengf/Auto-FedRL">code</a></td>
+	</tr>	
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">3</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2207.04655.pdf">Personalizing Federated Medical Image Segmentation via Local Calibration</a></td>
+        <td class=xl6519452 align="center">ECCV</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/jcwang123/FedLC">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">3</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2112.10775.pdf">HarmoFL: Harmonizing Local and Global Drifts in Federated Learning on Heterogeneous Medical Images</a></td>
+        <td class=xl6519452 align="center">AAAI</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/med-air/HarmoFL">code</a></td>
+	</tr>
 </table>
-
-
-
 
 
 ### 2021
@@ -86,7 +100,12 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">CVPR</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/liuquande/FedDG-ELCFS">code</a></td>
 	</tr>	
-	
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">2</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2102.05218.pdf">FLOP: Federated Learning on Medical Datasets using Partial Networks</a></td>
+        <td class=xl6519452 align="center">KDD</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/jianyizhang123/FLOP">code</a></td>
+	</tr>		
 </table>
 
 
