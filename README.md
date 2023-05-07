@@ -53,6 +53,12 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">CVPR</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/raymin0223/LoGo">Code</a></td>
 	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">7</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/10004993">Label-Efficient Self-Supervised Federated Learning for Tackling Data Heterogeneity in Medical Imaging</a></td>
+        <td class=xl6519452 align="center">TMI</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/rui-yan/SSL-FL">Code</a></td>
+	</tr>
 </table>
 
 
@@ -153,8 +159,49 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2203.13993.pdf">RSCFed: Random Sampling Consensus Federated Semi-supervised Learning</a></td>
         <td class=xl6519452 align="center">CVPR</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/xmed-lab/RSCFed">Code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">15</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9950359">Federated Cycling (FedCy): Semi-supervised Federated Learning of Surgical Phases</a></td>
+        <td class=xl6519452 align="center">TMI</td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
 	</tr>	
-	
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">16</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9868072">Specificity-Preserving Federated Learning for MR Image Reconstruction</a></td>
+        <td class=xl6519452 align="center">TMI</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/chunmeifeng/FedMRI">Code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">17</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9774951">FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation</a></td>
+        <td class=xl6519452 align="center">TMI</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/Jwicaksana/FedMix">Code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">18</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9943293">Federated Learning of Generative Image Priors for MRI Reconstruction</a></td>
+        <td class=xl6519452 align="center">TMI</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/icon-lab/fedgimp">Code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">19</td>
+        <td class=xl6519452 align="center"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/21446">Preserving Privacy in Federated Learning with Ensemble Cross-Domain Knowledge Distillation</a></td>
+        <td class=xl6519452 align="center">AAAI</td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">20</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9761404">Fedsld: Federated Learning with Shared Label Distribution for Medical Image Classification</a></td>
+        <td class=xl6519452 align="center">ISBI</td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">21</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9806163">SplitAVG: A Heterogeneity-Aware Federated Deep Learning Method for Medical Imaging</a></td>
+        <td class=xl6519452 align="center">JBHI</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/zm17943/SplitAVG">Code</a></td>
+	</tr>
 </table>
 
 
@@ -246,7 +293,23 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">MICCAI</td>
 	<td class=xl6519452 align="center"><a href=""></a></td>
 	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">13</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9347454">Dynamic-Fusion-Based Federated Learning for COVID-19 Detection</a></td>
+        <td class=xl6519452 align="center">IoT</td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">14</td>
+        <td class=xl6519452 align="center"><a href="https://www.nature.com/articles/s41591-021-01506-3">Federated learning for predicting clinical outcomes in patients with COVID-19</a></td>
+        <td class=xl6519452 align="center">Nature Medicine</td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
+	</tr>
 </table>
+
+
+
+
 
 
 ### 2020
@@ -284,6 +347,12 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center"><a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Chang_Synthetic_Learning_Learn_From_Distributed_Asynchronized_Discriminator_GAN_Without_Sharing_CVPR_2020_paper.html">Synthetic learning: Learn from distributed asynchronized discriminator gan without sharing medical image data</a></td>
         <td class=xl6519452 align="center">CVPR</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/tommy-qichang/AsynDGAN">Code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">4</td>
+        <td class=xl6519452 align="center"><a href="https://www.sciencedirect.com/science/article/pii/S1361841520301298">Multi-site fMRI analysis using privacy-preserving federated learning and domain adaptation: ABIDE results</a></td>
+        <td class=xl6519452 align="center">MIA</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/xxlya/Fed_ABIDE">Code</a></td>
 	</tr>
 </table>
 
