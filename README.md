@@ -124,7 +124,32 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">MICCAI</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/med-air/imFedSemi">Code</a></td>
 	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">10</td>
+        <td class=xl6519452 align="center"><a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_70">Federated Medical Image Analysis with Virtual Sample Synthesis</a></td>
+        <td class=xl6519452 align="center">MICCAI</td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">11</td>
+        <td class=xl6519452 align="center"><a href="https://www.sciencedirect.com/science/article/pii/S1361841521003431">Federated learning for computational pathology on gigapixel whole slide images</a></td>
+        <td class=xl6519452 align="center">MIA</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/mahmoodlab/HistoFL">Code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">12</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9855868">Customized Federated Learning for Multi-Source Decentralized Medical Image Classification</a></td>
+        <td class=xl6519452 align="center">JBHI</td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">13</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9780172">Personalized federated learning with adaptive batchnorm for health</a></td>
+        <td class=xl6519452 align="center">TBD</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/microsoft/PersonalizedFL">Code</a></td>
+	</tr>
 </table>
+
 
 
 
@@ -187,8 +212,25 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
 	
 </table>
 
-
-
+### 2020
+<table border=0 cellpadding=0 cellspacing=0 >
+  <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="25%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">Number</td>
+		<td class=xl6519452 width="65%" align="center">Title</td>
+		<td class=xl6519452 width="25%" align="center">Publication</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">1</td>
+        <td class=xl6519452 align="center"><a href="https://link.springer.com/chapter/10.1007/978-3-030-60548-3_15">Inverse distance aggregation for federated learning with non-iid data</a></td>
+        <td class=xl6519452 align="center">MICCAI-W</td>
+	<td class=xl6519452 align="center"><a href="https://ida-fl.github.io/">Project</a></td>
+	</tr>
+</table>
 
 
 
