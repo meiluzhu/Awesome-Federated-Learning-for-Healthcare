@@ -234,12 +234,19 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">MICCAI</td>
 	<td class=xl6519452 align="center"><a href=""></a></td>
 	</tr>	
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">11</td>
+        <td class=xl6519452 align="center"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Gong_Ensemble_Attention_Distillation_for_Privacy-Preserving_Federated_Learning_ICCV_2021_paper.pdf">Ensemble Attention Distillation for Privacy-Preserving Federated Learning</a></td>
+        <td class=xl6519452 align="center">ICCV</td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
+	</tr>	
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">12</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2109.07504.pdf">Federated Contrastive Learning for Decentralized Unlabeled Medical Images</a></td>
+        <td class=xl6519452 align="center">MICCAI</td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
+	</tr>
 </table>
-
-
-
-
-
 
 
 ### 2020
@@ -260,9 +267,23 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">MICCAI-W</td>
 	<td class=xl6519452 align="center"><a href="https://ida-fl.github.io/">Project</a></td>
 	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">2</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9268161">Variation-Aware Federated Learning With Multi-Source Decentralized Medical Image Data</a></td>
+        <td class=xl6519452 align="center">JBHI</td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">3</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9268161">Fed-Sim: Federated Simulation for Medical Imaging</a></td>
+        <td class=xl6519452 align="center">MICCAI</td>
+	<td class=xl6519452 align="center"><a href="https://nv-tlabs.github.io/fed-sim/">Project</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">4</td>
+        <td class=xl6519452 align="center"><a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Chang_Synthetic_Learning_Learn_From_Distributed_Asynchronized_Discriminator_GAN_Without_Sharing_CVPR_2020_paper.html">Synthetic learning: Learn from distributed asynchronized discriminator gan without sharing medical image data</a></td>
+        <td class=xl6519452 align="center">CVPR</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/tommy-qichang/AsynDGAN">Code</a></td>
+	</tr>
 </table>
-
-
-
-
 
