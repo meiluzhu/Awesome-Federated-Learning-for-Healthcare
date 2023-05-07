@@ -148,6 +148,13 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">TBD</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/microsoft/PersonalizedFL">Code</a></td>
 	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">14</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2203.13993.pdf">RSCFed: Random Sampling Consensus Federated Semi-supervised Learning</a></td>
+        <td class=xl6519452 align="center">CVPR</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/xmed-lab/RSCFed">Code</a></td>
+	</tr>	
+	
 </table>
 
 
@@ -209,8 +216,31 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">IPMI</td>
 	<td class=xl6519452 align="center"><a href="https://www.melba-journal.org/papers/2022:012.html">Project</a> <br> <a href="https://gitlab.inria.fr/epione/federated-multi-views-ppca">Code</a></td>
 	</tr>	
-	
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">8</td>
+        <td class=xl6519452 align="center"><a href="https://link.springer.com/chapter/10.1007/978-3-030-87199-4_31">Federated semi-supervised medical image classification via inter-client relation matching</a></td>
+        <td class=xl6519452 align="center">MICCAI</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/liuquande/FedIRM">Code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">9</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2204.10983.pdf">Federated Contrastive Learning for Volumetric Medical Image Segmentation</a></td>
+        <td class=xl6519452 align="center">MICCAI</td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">10</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2107.08111.pdf">Federated Whole Prostate Segmentation in MRI with Personalized Neural Architectures</a></td>
+        <td class=xl6519452 align="center">MICCAI</td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
+	</tr>	
 </table>
+
+
+
+
+
+
 
 ### 2020
 <table border=0 cellpadding=0 cellspacing=0 >
