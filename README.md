@@ -106,6 +106,12 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">TMI</td>
 	<td class=xl6519452 align="center"><a href=""></a></td>
 	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">9</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2206.13079.pdf">Dynamic bank learning for semi-supervised federated image diagnosis with class imbalance</a></td>
+        <td class=xl6519452 align="center">MICCAI</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/med-air/imFedSemi">Code</a></td>
+	</tr>
 </table>
 
 
