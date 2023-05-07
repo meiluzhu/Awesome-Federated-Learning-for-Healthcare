@@ -6,7 +6,6 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
 </div>
 
 ### 2023
-
 <table border=0 cellpadding=0 cellspacing=0 >
   <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
 	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
@@ -31,3 +30,52 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
 	<td class=xl6519452 align="center"><a href="https://github.com/CityU-AIM-Group/FedDM">code</a></td>
 	</tr>
 </table>
+
+### 2022
+<table border=0 cellpadding=0 cellspacing=0 >
+  <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="25%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">Number</td>
+		<td class=xl6519452 width="65%" align="center">Title</td>
+		<td class=xl6519452 width="25%" align="center">Publication</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">1</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9832948">Personalized Retrogress-Resilient Federated Learning Towards Imbalanced Medical Data</a></td>
+        <td class=xl6519452 align="center">TMI</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/CityU-AIM-Group/PRR-Imbalance">code</a></td>
+	</tr>
+</table>
+
+### 2021
+<table border=0 cellpadding=0 cellspacing=0 >
+  <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="25%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">Number</td>
+		<td class=xl6519452 width="65%" align="center">Title</td>
+		<td class=xl6519452 width="25%" align="center">Publication</td>
+		<td class=xl6519452 width="5%" align="center">Materials</td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">1</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9832948">Personalized Retrogress-Resilient Framework for Real-World Medical Federated Learning</a></td>
+        <td class=xl6519452 align="center">MICCAI</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/CityU-AIM-Group/PRR-FL">code</a></td>
+	</tr>
+</table>
+
+
+
+
+
+
+
+
+
