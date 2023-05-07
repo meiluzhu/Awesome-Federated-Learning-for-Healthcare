@@ -29,7 +29,22 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">TMI</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/CityU-AIM-Group/FedDM">code</a></td>
 	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">2</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2304.06931.pdf">Scale Federated Learning for Label Set Mismatch in Medical Image Classification</a></td>
+        <td class=xl6519452 align="center"></td>
+	<td class=xl6519452 align="center"><a href="">code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">2</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2304.09327.pdf">Federated Alternate Training (FAT): Leveraging Unannotated Data Silos in Federated Segmentation for Medical Imaging</a></td>
+        <td class=xl6519452 align="center">ISBI</td>
+	<td class=xl6519452 align="center"><a href="">code</a></td>
+	</tr>
 </table>
+
+
+
 
 ### 2022
 <table border=0 cellpadding=0 cellspacing=0 >
