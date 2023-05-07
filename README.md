@@ -25,7 +25,7 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
 	<td class=xl6519452 align="center"><a href="https://github.com/llmir/FedICRA">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.15pt'>
-        <td class=xl6519452 align="center">1</td>
+        <td class=xl6519452 align="center">2</td>
         <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/10013742">FedDM: Federated Weakly Supervised Segmentation via Annotation Calibration and Gradient De-conflicting</a></td>
         <td class=xl6519452 align="center">TMI</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/CityU-AIM-Group/FedDM">code</a></td>
