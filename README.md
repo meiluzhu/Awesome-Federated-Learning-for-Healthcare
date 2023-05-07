@@ -100,6 +100,12 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
         <td class=xl6519452 align="center">ISBI</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/hritam-98/ICT-MedSeg">code</a></td>
 	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">8</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/document/9994748">Federated partially supervised learning with limited decentralized medical images</a></td>
+        <td class=xl6519452 align="center">TMI</td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
+	</tr>
 </table>
 
 
