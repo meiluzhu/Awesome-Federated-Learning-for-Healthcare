@@ -8,6 +8,8 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
 ## Motivation
 Although there are some Federated Learning Libraries, they do not comprehensively collect the papers in medical fields. 
 
+<a href="https://github.com/chaoyanghe/Awesome-Federated-Learning">https://github.com/chaoyanghe/Awesome-Federated-Learning</a>
+
 ## Papers
 ### Survey
 <table border=0 cellpadding=0 cellspacing=0 >
