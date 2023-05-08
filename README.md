@@ -5,7 +5,7 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
 <img width="700" src="imgs/img.png" alt="FL"/>
 </div>
 
-### Survey
+## Survey
 <table border=0 cellpadding=0 cellspacing=0 >
   <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
 	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
@@ -25,6 +25,7 @@ Federated Learning (FL) is a distributed machine learning framework, which allow
 	</tr>
 </table>
 
+## Papers
 ### 2023
 <table border=0 cellpadding=0 cellspacing=0 >
   <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
