@@ -507,8 +507,28 @@ Although there are some Awesome Federated Learning Libraries, they do not compre
         <td class=xl6519452 align="center">
 		Dataset size: 30 GB. 
 		Client number: 6.  
-		Task: Supervised Segmentation [2D / 3D]. <br>
+		Task: Supervised Segmentation [2D / 3D]. <br> . </td>
 	<td class=xl6519452 align="center"><a href="https://github.com/owkin/FLamby/blob/main/flamby/datasets/fed_isic2019/README.md">Link</a></td>
+	</tr>	
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">6</td>
+	<td class=xl6519452 align="center">Organ Segmentation</td>
+        <td class=xl6519452 align="center">
+		Client number: 6.  
+		Class number: 5. (Liver | Kidney | Pancreas | Spleen | Gallbladder)
+		Task: Segmentation with Partial Labels [2D / 3D]. <br>
+		Records per center: LiTS: 131 (79/13/39), KiTS:	10 (126/21/63), MSD-Task07: 281(169/28/84), MSD-Task09:	41(24/5/12), AMOS: 200 (120/20/60), BTCV: 30 (0/0/30). </td>
+	<td class=xl6519452 align="center"><a href="https://github.com/DIAL-RPI/Fed-MENU">Link</a></td>
+	</tr>	
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">7</td>
+	<td class=xl6519452 align="center">Prostate Segmentation</td>
+        <td class=xl6519452 align="center">
+		Client number: 6.  
+		Class number: 2. 
+		Task: Segmentation [2D / 3D]. <br>
+		Records per center: RUNMC: 30, BMC: 30, HCRUDB: 19, UCL: 13, BIDMC: 12, HK: 12. </td>
+	<td class=xl6519452 align="center"><a href="https://github.com/DIAL-RPI/Fed-MENU">Link</a></td>
 	</tr>	
 
 </table>
