@@ -507,7 +507,7 @@ Although there are some Awesome Federated Learning Libraries, they do not compre
         <td class=xl6519452 align="center">
 		Dataset size: 30 GB. 
 		Client number: 6.  
-		Task: Supervised Segmentation [2D / 3D]. <br> . </td>
+		Task: Supervised Segmentation [2D / 3D]. </td>
 	<td class=xl6519452 align="center"><a href="https://github.com/owkin/FLamby/blob/main/flamby/datasets/fed_isic2019/README.md">Link</a></td>
 	</tr>	
 	<tr height=19 style='height:14.15pt'>
