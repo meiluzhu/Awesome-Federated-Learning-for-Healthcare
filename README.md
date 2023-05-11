@@ -113,8 +113,17 @@ Although there are some Awesome Federated Learning Libraries, they do not compre
 </a></td>
         <td class=xl6519452 align="center">CVPR</td>
 	<td class=xl6519452 align="center"><a href="https://github.com/NVIDIA/NVFlare/tree/dev/research/fed-ce">Code</a></td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">10</td>
+        <td class=xl6519452 align="center"><a href="https://ieeexplore.ieee.org/document/10107904">Federated Multi-organ Segmentation with Inconsistent Labels
+</a></td>
+        <td class=xl6519452 align="center">TMI</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/DIAL-RPI/Fed-MENU">Code</a></td>
 	</tr>	
 </table>
+
+
 
 
 ### 2022
