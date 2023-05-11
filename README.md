@@ -528,7 +528,16 @@ Although there are some Awesome Federated Learning Libraries, they do not compre
 		Class number: 2. 
 		Task: Segmentation [2D / 3D]. <br>
 		Records per center: RUNMC: 30, BMC: 30, HCRUDB: 19, UCL: 13, BIDMC: 12, HK: 12. </td>
-	<td class=xl6519452 align="center"><a href="https://github.com/DIAL-RPI/Fed-MENU">Link</a></td>
+	<td class=xl6519452 align="center"><a href="https://liuquande.github.io/SAML/">Link</a></td>
+	</tr>	
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">8</td>
+	<td class=xl6519452 align="center">Fundus Image Segmentation</td>
+        <td class=xl6519452 align="center">
+		Client number: 4.  
+		Task: OC/OD, Vessel Segmentation [2D]. <br>
+		Records per center: [train + test] OC/OD task: C1 (50 + 51), C2 (99 + 60), C3 (320 + 80), C4 (320 + 80). Vessel task: C1 (20 + 20), C2 (15 + 30), C3 (10 + 10), C4 (20 + 8). </td>
+	<td class=xl6519452 align="center"><a href="https://github.com/emma-sjwang/Dofe">Link</a></td>
 	</tr>	
 
 </table>
