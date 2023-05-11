@@ -464,7 +464,11 @@ Although there are some Awesome Federated Learning Libraries, they do not compre
 	<tr height=19 style='height:14.15pt'>
         <td class=xl6519452 align="center">1</td>
 	<td class=xl6519452 align="center">Fed-Camelyon16 [FLamby]</td>
-        <td class=xl6519452 align="center">Dataset size: 900 GB. <br> Client Number: 2 centers - RUMC and UMCU. <br> Records per center: RUMC: 169 (Train) + 74 (Test), UMCU: 101 (Train) + 55 (Test). </td>
+        <td class=xl6519452 align="center">Dataset size: 900 GB. <br> 
+		Client number: 2 centers - RUMC and UMCU. <br> 
+		Class number: .<br>
+		Task: Classification. <br>
+		Records per center: RUMC: 169 (Train) + 74 (Test), UMCU: 101 (Train) + 55 (Test).  </td>
 	<td class=xl6519452 align="center"><a href="https://github.com/owkin/FLamby/blob/main/flamby/datasets/fed_camelyon16/README.md">Link</a></td>
 	</tr>
 </table>
