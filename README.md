@@ -465,9 +465,9 @@ Although there are some Awesome Federated Learning Libraries, they do not compre
         <td class=xl6519452 align="center">1</td>
 	<td class=xl6519452 align="center">Fed-Camelyon16 [FLamby]</td>
         <td class=xl6519452 align="center">
-		Dataset size: 900 GB. <br> 
-		Client number: 2. <br> 
-		Class number: 2.<br>
+		Dataset size: 900 GB.  
+		Client number: 2. 
+		Class number: 2.
 		Task: Classification [2D / 3D]. <br>
 		Records per center: RUMC: 169 (Train) + 74 (Test), UMCU: 101 (Train) + 55 (Test). </td>
 	<td class=xl6519452 align="center"><a href="https://github.com/owkin/FLamby/blob/main/flamby/datasets/fed_camelyon16/README.md">Link</a></td>
@@ -476,8 +476,8 @@ Although there are some Awesome Federated Learning Libraries, they do not compre
         <td class=xl6519452 align="center">2</td>
 	<td class=xl6519452 align="center">Fed-LIDC-IDRI [FLamby]</td>
         <td class=xl6519452 align="center">
-		Client number: 4. <br> 
-		Class number: 2.<br>
+		Client number: 4. 
+		Class number: 2.
 		Task: Segmentation [2D / 3D]. <br>
 		Records per center: 1009 CT-scans with masks (GE MEDICAL SYSTEMS 661 (530 / 131), SIEMENS 205 (164, 41), TOSHIBA 69 (55 / 14), Philips 74 (59 / 15) </td>
 	<td class=xl6519452 align="center"><a href="https://github.com/owkin/FLamby/blob/main/flamby/datasets/fed_lidc_idri/README.md">Link</a></td>
@@ -486,8 +486,8 @@ Although there are some Awesome Federated Learning Libraries, they do not compre
         <td class=xl6519452 align="center">3</td>
 	<td class=xl6519452 align="center">Fed-ISIC2019 [FLamby]</td>
         <td class=xl6519452 align="center">
-		Client number: 6. <br> 
-		Class number: 9.<br>
+		Client number: 6.  
+		Class number: 9.
 		Task: Classification /  Segmentation [2D]. <br>
 		Records per center: 23,247 images of skin lesions ((9930/2483), (3163/791), (2691/672), (1807/452), (655/164), (351/88)) </td>
 	<td class=xl6519452 align="center"><a href="https://github.com/owkin/FLamby/blob/main/flamby/datasets/fed_isic2019/README.md">Link</a></td>
@@ -496,7 +496,7 @@ Although there are some Awesome Federated Learning Libraries, they do not compre
         <td class=xl6519452 align="center">4</td>
 	<td class=xl6519452 align="center">Fed-IXITiny [FLamby]</td>
         <td class=xl6519452 align="center">
-		Client number: 3. <br> 
+		Client number: 3.  
 		Task: Segmentation [2D / 3D]. <br>
 		Records per center: Guys: 249/62, HH: 145/36, IOP: 59/15 (train/test). </td>
 	<td class=xl6519452 align="center"><a href="https://github.com/owkin/FLamby/blob/main/flamby/datasets/fed_ixi/README.md">Link</a></td>
@@ -505,8 +505,8 @@ Although there are some Awesome Federated Learning Libraries, they do not compre
         <td class=xl6519452 align="center">5</td>
 	<td class=xl6519452 align="center">Fed-KITS2019 [FLamby]</td>
         <td class=xl6519452 align="center">
-		Dataset size: 30 GB. <br>
-		Client number: 6. <br> 
+		Dataset size: 30 GB. 
+		Client number: 6.  
 		Task: Supervised Segmentation [2D / 3D]. <br>
 	<td class=xl6519452 align="center"><a href="https://github.com/owkin/FLamby/blob/main/flamby/datasets/fed_isic2019/README.md">Link</a></td>
 	</tr>	
