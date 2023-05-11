@@ -122,7 +122,7 @@ Although there are some Awesome Federated Learning Libraries, they do not compre
 	<td class=xl6519452 align="center"><a href="https://github.com/DIAL-RPI/Fed-MENU">Code</a></td>
 	</tr>	
 	<tr height=19 style='height:14.15pt'>
-        <td class=xl6519452 align="center">10</td>
+        <td class=xl6519452 align="center">11</td>
         <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2301.12798.pdf">TrFedDis: Trusted Federated Disentangling Network for Non-IID Domain Feature
 </a></td>
         <td class=xl6519452 align="center"></td>
