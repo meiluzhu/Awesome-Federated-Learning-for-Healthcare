@@ -450,4 +450,21 @@ Although there are some Awesome Federated Learning Libraries, they do not compre
 </table>
 
 ## Federated Medical Datasets
-
+<table border=0 cellpadding=0 cellspacing=0 >
+  <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
+	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
+	<col width="25%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032'>
+	<tr height=19 style='height:14.25pt'>
+		<td height=19 class=xl6519452 width="5%" align="center">ID</td>
+		<td class=xl6519452 width="65%" align="center">Name</td>
+		<td class=xl6519452 width="25%" align="center">Publication</td>
+		<td class=xl6519452 width="5%" align="center">Link</td>
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">1</td>
+        <td class=xl6519452 align="center"><a href="https://link.springer.com/chapter/10.1007/978-3-030-60548-3_15">Inverse distance aggregation for federated learning with non-iid data</a></td>
+        <td class=xl6519452 align="center">MICCAI-W</td>
+	<td class=xl6519452 align="center"><a href="https://ida-fl.github.io/">Project</a></td>
+	</tr>
+</table>
