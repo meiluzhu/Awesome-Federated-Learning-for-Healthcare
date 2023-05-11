@@ -107,9 +107,14 @@ Although there are some Awesome Federated Learning Libraries, they do not compre
         <td class=xl6519452 align="center">ISBI</td>
 	<td class=xl6519452 align="center"><a href=""></a></td>
 	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">9</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2303.16520.pdf">Fair Federated Medical Image Segmentation via Client Contribution Estimation
+</a></td>
+        <td class=xl6519452 align="center">CVPR</td>
+	<td class=xl6519452 align="center"><a href="https://github.com/NVIDIA/NVFlare/tree/dev/research/fed-ce">Code</a></td>
+	</tr>	
 </table>
-
-
 
 
 ### 2022
