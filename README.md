@@ -127,7 +127,14 @@ Although there are some Awesome Federated Learning Libraries, they do not compre
 </a></td>
         <td class=xl6519452 align="center"></td>
 	<td class=xl6519452 align="center"><a href=""></a></td>
-	</tr>	
+	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">12</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2306.02673.pdf">Cross-Modal Vertical Federated Learning for MRI Reconstruction
+</a></td>
+        <td class=xl6519452 align="center"></td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
+	</tr>
 </table>
 
 
