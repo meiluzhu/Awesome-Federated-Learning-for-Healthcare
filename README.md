@@ -45,6 +45,12 @@ Although there are some Awesome Federated Learning Libraries, they do not compre
         <td class=xl6519452 align="center">JBHI</td>
 	<td class=xl6519452 align="center"><a href=""></a></td>
 	</tr>
+	<tr height=19 style='height:14.15pt'>
+        <td class=xl6519452 align="center">2</td>
+        <td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2306.05980.pdf">Federated Learning for Medical Image Analysis: A Survey</a></td>
+        <td class=xl6519452 align="center"></td>
+	<td class=xl6519452 align="center"><a href=""></a></td>
+	</tr>
 </table>
 
 ### 2023
